@@ -37,4 +37,3 @@ def print5():
     input("\npress enter to quit")
 
 function2()
-#hi i am funny and pooping #flowerpower
