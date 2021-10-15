@@ -1,5 +1,6 @@
-from colorama import init
-init()
+from colorama import Fore
+import colorama
+from colorama import Style
 
 Verb = input ("Give me one Verb: ")
 Noun = input ("Give me one Noun: ")
